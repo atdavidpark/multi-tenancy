@@ -13,7 +13,7 @@ require (
 	k8s.io/apiserver v0.18.6
 	k8s.io/client-go v0.18.6
 	k8s.io/cri-api v0.18.6
-	k8s.io/kubernetes v1.18.6
+	k8s.io/kubernetes v1.18.19
 	k8s.io/utils v0.0.0-20200619165400-6e3d28b6ed19
 
 	// v0.0.0 does not really exist - the `replace` directive below pins it to
